@@ -1,5 +1,5 @@
 # Install Mysql on your computer
-# http://dev.mysql.com/download/installer
+# https://dev.mysql.com/downloads/installer/
 # pip install mysql
 # pip install mysql-connector-python
 # pip install mysql-connector
